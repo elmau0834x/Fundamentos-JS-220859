@@ -1,0 +1,55 @@
+html{
+box-sizing: border-box;
+font-size: 62.5%
+}
+
+body{
+font-size: 1.6rem;
+font-family: 'Lato', sans-serif;
+background-color: rgb(208, 230, 111);
+}
+
+*, *:before, *:after{
+    box-sizing: inherit;
+}
+
+header{
+    padding: 3rem 0;
+}
+
+header, h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 6rem;
+}
+
+header, p {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 3.2rem;
+}
+
+header, a{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}
+
+.DOM {
+    max-width: 120rem;
+    margin: 0 auto;
+}
+
+.DOM h2 {
+    color: aliceblue;
+    text-align: center;
+}
+
+.DOM p {
+    color: blue;
+    font-size: 20px;
+}
+
+.DOM #formulario {
+    max-width: 70;
+}
+
