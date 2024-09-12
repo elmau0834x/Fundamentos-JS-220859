@@ -46,7 +46,7 @@ transactionAmount = (quanty * productCost)
 accountBalance = accountBalance - (transactionAmount)
 console.log(`Tu nuevo saldo es de: ${accountBalance}`)
 
-//El cliente realiza un abono de 1500
+//El cliente realiza un abono de 1500 xd
 
 transactionAmount = 1500
 console.log(`Tu abono de : ${transactionAmount} ah sido recivido, tu nuevo saldo es de: ${(accountBalance + transactionAmount)}`)
