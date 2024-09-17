@@ -1,31 +1,28 @@
-// //Strins e cadenas de texto
-// const alumno = "Juan"
-// let producto = "Monitor 28 pulgadas"
+// const producto = {
+//     nombre: "tablet",
+//     precio: 200,
+//     disponible: true
+// }
 
-//const { syntaxError } = require("graphql")
+// console.log(producto)
+// console.table(producto)
 
-// const numero = "30"
-// const numero2 = 30
+// console.log(producto.nombre)
+// console.log(producto.precio)
+// console.log(producto.disponible)
 
-// console.log(typeof numero)
-// console.log(typeof numero2)
+// const {nombre, precio, disponible} = producto
+// console.log(nombre)
+// console.log(precio)
+// console.log(disponible)
 
-// const numeroGrande = BigInt(111111111)
-// console.log(typeof numeroGrande)
+// const autenticado = true
+// const usuario = "juan"
 
-// const numero = 10
-// const numero2 = 20
-// console.log(numero * Number(numeroGrande))
+// const nueboObject = {
+//     autenticado: autenticado,
+//     usuario: usuario
+// }
 
-// console.log(typeof String(numero2))
-// console.log(typeof Number(numero))
+// console.table(nueboObject)
 
-// const primerSymbol = Symbol(30)
-// const segundoSymbol =Symbol(30)
-
-// console.log(primerSymbol === segundoSymbol)
-
-// console.log(primerSymbol.valueOf())
-
-const descuento = null
-console.log(typeof descuentoco)
