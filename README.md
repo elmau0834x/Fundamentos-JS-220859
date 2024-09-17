@@ -10,6 +10,9 @@ Previo a inicializar el desarrollo de software para web usando el framework de N
 |--|--|--|
 |1. |metodlogia de evaluacion|activa|
 |2. |Inicializacion del proyecto de fundamentos de js|Activa|
+|3. |Declaracion de variables (Undefined/Boolean/Number)|10|Activa
+|4. |Declaracion de variables (String/BigInt/Symbol/null/Function)Por definir|Activa
+|5. |Introduciion a objetos|Activa
 
 === Autor
 Mauricio Rosales Gabriel
